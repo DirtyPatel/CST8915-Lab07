@@ -6,6 +6,8 @@
 
 ![alt text](image-3.png)
 
+https://youtu.be/5hW5XM4nSqs
+
 ### 1. Is RabbitMQ stateless or stateful?
 
 RabbitMQ is stateful because it needs to save its data.
